@@ -4,5 +4,7 @@ function feature1()
 }
 function feature2()
 {
-    // By Ali ....
+    let name = "someone";
+
+    return name;
 }
