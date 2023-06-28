@@ -1,6 +1,8 @@
 function feature1()
 {
-    // By Ziad...
+    let location = "somewhere";
+
+    return location;
 }
 function feature2()
 {
